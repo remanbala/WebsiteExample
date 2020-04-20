@@ -1,0 +1,1 @@
+A simple website example developed using Laravel 7.
